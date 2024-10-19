@@ -17,7 +17,7 @@ For an exhaustive description of the project's motivation, implementations & res
 
 ## Reproducibility :
 
-In another to read another dataset than the two CSV files detailed above, the file containing this data must be under a CSV format and located in the same directory as the 📒 [rainy_book.jl](rainy_book.jl) notebook. The name of the file must then be replaced in the `CSV.read(joinpath(FileName.csv”), DataFrame)` of the notebook.
+In another to read another dataset than the two CSV files detailed above, the file containing this data must be under a CSV format and located in the same directory as the 📒 [rainy_book.jl](rainy_book.jl) notebook. The name of the file must then be replaced in the `CSV.read(joinpath(FileName.csv), DataFrame)` of the notebook.
 
 Running the notebook cells will then produce results files. These files were to be uploaded to the Kaggle page of our course, to compare with the hidden expected results.
 
