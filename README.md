@@ -2,7 +2,7 @@
 
 This Machine Learning project's objective is to predict the weather in Pully (Switzerland), based on weather-related parameters in different cities , measured during an entire day. This specific project was done entirely using Julia.
 
-For an exhaustive description of the project's motivation, implementations & results, please feel free to read our 📖 [rainy_report.pdf](rainy_report.pdf) pdf.
+For an exhaustive description of the project's motivation, implementations & results, please feel free to read our 📖 [rainy_report.pdf](rainy_report.pdf).
 
 
 ## Repository Structure :
